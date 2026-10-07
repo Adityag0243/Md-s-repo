@@ -93,35 +93,16 @@ Our GTM stack (ClawReach), Apollo, Sales Navigator, and in-house research agent 
 
 - Warmed email inboxes and/or LinkedIn accounts to send outreach from your brand directly
 - Lane confirmation — which segments and geographies are already taken
-- CRM tab access to log every lead in real time, tagged under our name
+- Slack and CRM tab access to log every lead in real time, tagged under our name
 - SDR handoff contact + approval on first message drafts before we start sending
 
 ---
 
 ## Pricing & Comp Model
 
-### Pilot Setup
-
-**$200 flat**
-
-30-day pilot. Covers setup, list build, research, and sequencing.
-
-### Per Meeting Booked
-
-**$100 / meeting**
-
-Per booked appointment that comes from our positive replies.
-
-### Per Closed Deal
-
-**$200 / close**
-
-Per AGP client that closes from our pipeline. Aligned on long-term success.
-
-### After 30 days
-
-After 30 days, once we have real reply → meeting → close numbers, we can agree a revised structure that works for both sides.
-
+Suggested structure: A small fixed pilot fee to cover data and enrichment costs, plus a fee per booked appointment that the SDR team confirms.
+Alternative: Pay per appointment only for the first 30 days, then move to a retainer once results are proven.
+A performance-weighted model fits AGP's "booked appointments are the only number" framing, and it makes up for the fact that you don't yet have appointment case studies.
 ---
 
 ## Results Delivered
@@ -142,8 +123,4 @@ Built and ran the outbound prospecting pipeline for **Endee.io** — data-driven
 
 ## Ready to Start
 
-I run a lean, automated outbound system — no bulk blasting, no fake results.
-
-Every lead logged, every reply handed off same day.
-
-**Ready to start within 48 hours of alignment call.**
+Let's catch up over a 30 minutes meeting and discuss next steps.
